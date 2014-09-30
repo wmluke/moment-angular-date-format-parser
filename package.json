@@ -1,6 +1,6 @@
 {
   "name": "moment-angular-date-format-parser",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "Translates the Angular JS filter date format to the `moment.js` date format.",
   "homepage": "https://github.com/MadMG/moment-angular-date-format-parser",
   "authors": [
