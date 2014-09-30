@@ -16,6 +16,9 @@
     "time",
     "parse"
   ],
+  "scripts": {
+    "test": "grunt qunit"
+  },
   "main": "moment-angular-date-format-parser",
   "engines": {},
   "repository": {
